@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://pasteboard.co/v8aBIT3dbk5K.png)
+![Click to See The ScreenShot](https://pasteboard.co/v8aBIT3dbk5K.png)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://alinematt.github.io/Front-End-Mentor)
+- Live Site URL: [Live Code (Click)](https://alinematt.github.io/Front-End-Mentor)
 
 ## My process
   
