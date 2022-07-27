@@ -1,0 +1,17 @@
+@media (max-width:768px){
+    .box{
+        flex-direction: column;
+        width: 90vw;
+    }
+    .col-mb-1{
+        width: 100%;
+    }
+    .col-2.bg {
+        background: url(../images/image-product-mobile.jpg) no-repeat 50%;
+        background-size: cover;
+        height: 230px;
+    }
+    .col-2.flex span { 
+        margin-bottom: 10px;
+    }
+}
