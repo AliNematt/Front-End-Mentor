@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Click to See The ScreenShot](https://pasteboard.co/v8aBIT3dbk5K.png)
+[Click to See The ScreenShot](https://pasteboard.co/v8aBIT3dbk5K.png)
 
 
 ### Links
